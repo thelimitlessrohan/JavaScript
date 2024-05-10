@@ -73,8 +73,8 @@
 //     i++;
 // }
 
-fruites = ['mango','orange'];
+// fruites = ['mango','orange'];
 
-for (fruite of fruites){
-    console.log(fruite);
-}
+// for (fruite of fruites){
+//     console.log(fruite);
+// }
