@@ -66,3 +66,15 @@
 // for (let i=n; i<=10*n; i= i+n){
 //     console.log(i);
 // }
+
+// let i=0;
+// while(i<=5){
+//     console.log(i);
+//     i++;
+// }
+
+fruites = ['mango','orange'];
+
+for (fruite of fruites){
+    console.log(fruite);
+}
